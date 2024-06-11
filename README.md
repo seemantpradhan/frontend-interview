@@ -10,3 +10,8 @@ A Promise is a proxy for a value not necessarily known when the promise is creat
 
 Detail - 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+
+# Implement Promise?
+
+# Implement cancellable promises?
