@@ -1,7 +1,8 @@
 # JavaScript Fundamentals
-
+[Good to revise at a glance]
 
 ## Basic operators, maths
-[Good to revise at a glance] https://javascript.info/operators
+ https://javascript.info/operators
 
-## Numeric conversion
+## Type Conversions
+https://javascript.info/type-conversions
