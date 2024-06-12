@@ -2,4 +2,4 @@
 
 
 ## Basic operators, maths
-https://javascript.info/operators
+[Good to revise at a glance] https://javascript.info/operators
