@@ -12,3 +12,6 @@ https://web.dev/learn/performance/understanding-the-critical-path
 
 ### Populating the page: how browsers work
 https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+
+### Memory management
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_management
