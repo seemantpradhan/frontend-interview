@@ -11,6 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS
 - Flex box 
 - Grid box
 - Media queries
+- Animation
 
 ### CSS Units 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#lengths
