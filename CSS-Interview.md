@@ -28,8 +28,8 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids
 https://www.youtube.com/watch?v=EiNiSFIPIQE [Slaying The Dragon]
 
 ### CSS Pre-processor
-https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor
-
+- https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor
+- https://www.freecodecamp.org/news/css-preprocessors/
 - https://dev.to/mathlete/what-s-the-difference-between-css-sass-and-scss-g2b
 
 
