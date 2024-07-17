@@ -14,5 +14,5 @@
 
 ### React Query 
 - https://refine.dev/blog/react-query-guide/#introduction
-- https://youtu.be/VtWkSCZX0Ec?si=pavQ1mIeBk-3U780 [React Query Tutorial] by Codevolution
+- React Query Tutorial by Codevolution - https://youtu.be/VtWkSCZX0Ec?si=pavQ1mIeBk-3U780 
 
