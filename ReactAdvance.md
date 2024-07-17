@@ -11,3 +11,8 @@
 2. Forwarding a ref through multiple components
 3. Exposing an imperative handle instead of a DOM node 
 - https://react.dev/reference/react/forwardRef
+
+### React Query 
+- https://refine.dev/blog/react-query-guide/#introduction
+- https://youtu.be/VtWkSCZX0Ec?si=pavQ1mIeBk-3U780 [React Query Tutorial] by Codevolution
+
