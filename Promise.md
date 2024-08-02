@@ -8,6 +8,6 @@ Detail -
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
 
-# Implement Promise?
+## Implement Promise?
 
-# Implement cancellable promises?
+## Implement cancellable promises?
