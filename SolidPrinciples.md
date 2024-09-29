@@ -6,8 +6,8 @@ These principles establish practices for developing software with considerations
 
 SOLID stands for:
 
-S - Single-responsibility Principle
-O - Open-closed Principle
-L - Liskov Substitution Principle
-I - Interface Segregation Principle
-D - Dependency Inversion Principle
+  - S - Single-responsibility Principle
+  - O - Open-closed Principle
+  - L - Liskov Substitution Principle
+  - I - Interface Segregation Principle
+  - D - Dependency Inversion Principle
