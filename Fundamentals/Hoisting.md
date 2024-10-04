@@ -12,6 +12,9 @@ Variable declarations (let and const):
 Function expressions (var): 
 - Declarations are hoisted, but not initializations. The value of the variable is undefined if accessed before initialization.
 
+Function declarations (let and const): 
+- Declarations are hoisted, but not initialized. Accessing them results in ReferenceError until the actual declaration is encountered.
+
 Function declarations (function): 
 - Both declaration and definition are fully hoisted.
 
@@ -20,6 +23,12 @@ Class declarations (class):
 
 Import declarations (import): 
 - Declarations are hoisted, and side effects of importing the module are executed before the rest of the code.
+
+## How it works:
+Hoisting:
+- The variable declaration (not the assignment) is hoisted to the top of its scope (either global or block scope).
+Temporal Dead Zone (TDZ):
+- The period between the start of the scope and the declaration of the variable is known as the Temporal Dead Zone. Attempting to access the variable within the TDZ results in a ReferenceError.
 
 
 ## Under the hood
