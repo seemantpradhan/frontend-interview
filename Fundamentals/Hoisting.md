@@ -27,6 +27,7 @@ Import declarations (import):
 ## How it works:
 Hoisting:
 - The variable declaration (not the assignment) is hoisted to the top of its scope (either global or block scope).
+
 Temporal Dead Zone (TDZ):
 - The period between the start of the scope and the declaration of the variable is known as the Temporal Dead Zone. Attempting to access the variable within the TDZ results in a ReferenceError.
 
