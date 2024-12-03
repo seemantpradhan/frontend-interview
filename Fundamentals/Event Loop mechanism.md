@@ -6,3 +6,6 @@
 
 ### Mastering Event Loop: Tricky Node Interview Questions
 - https://www.linkedin.com/pulse/mastering-event-loop-tricky-node-interview-questions-aayush-patniya-lbobf/
+
+### The Most Common JavaScript Event Loop Interview Questions
+- https://www.explainthis.io/en/swe/js-event-loop-questions
