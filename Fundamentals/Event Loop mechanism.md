@@ -3,3 +3,6 @@
 
 ### JavaScript Visualized: Event Loop, Web APIs, (Micro)task Queue
 - https://www.lydiahallie.com/blog/event-loop
+
+### Mastering Event Loop: Tricky Node Interview Questions
+- https://www.linkedin.com/pulse/mastering-event-loop-tricky-node-interview-questions-aayush-patniya-lbobf/
