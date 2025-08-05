@@ -1,3 +1,6 @@
+
+
+### Promise polyfill
 Q. Write a program in JavaScript to create your own MyPromise that functions similarly to the built-in Promise using Polyfills.
 Ans. Implement a custom MyPromise class that mimics JavaScript's built-in Promise functionality using polyfills.
 Define a MyPromise class with a constructor that accepts an executor function.
