@@ -11,3 +11,5 @@ Ans.
 - Use 'resolve' and 'reject' methods to change the state and trigger callbacks.
 - Handle chaining of promises by returning a new MyPromise instance from 'then'.
 
+https://medium.com/@code_it_right/polyfill-promises-part-1-a3a110fe115f
+
